@@ -1,0 +1,23 @@
+{
+  "name": "shokaku",
+  "version": "1.0.0",
+  "description": "Tool for interfacing with meetup api for checking no-show rate of registered attendees",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vocalonation/Shokaku.git"
+  },
+  "author": "Vocalonation",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vocalonation/Shokaku/issues"
+  },
+  "homepage": "https://github.com/Vocalonation/Shokaku#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "morgan": "^1.8.1"
+  }
+}
